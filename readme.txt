@@ -6,3 +6,5 @@ guazi 201809gfhfghkjag
 fhkjdgsahg
 
 fhgksfa iajk
+
+Creating a new branch is quick AND simple.
